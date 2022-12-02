@@ -1,7 +1,7 @@
 ### Hello World!
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/FrasMaciej/github-readme-stats)
+![](https://github.com/FrasMaciej/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/FrasMaciej/github-stats/blob/master/generated/languages.svg)
 
 
 <!--
